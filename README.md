@@ -1,8 +1,8 @@
 # publishing-dataset-recsys20
 
-This repogitory includes codes and dataset of out Recsys 2020 paper.
+This repository includes codes and dataset of our Recsys2020 paper.
 
-Document will publish soon.
+Document will be published soon.
 
-Yoshifumi Seki, Takanori Maehara (2020): "A Method to Anonymize Business Metrics to Publishing Implicit FeedbackDatasets". Proceedings of the 14th ACM Conference on Recommender Systems (RecSys'20).
 
+Yoshifumi Seki, Takanori Maehara (2020): "A Method to Anonymize Business Metrics to Publishing Implicit Feedback Datasets". Proceedings of the 14th ACM Conference on Recommender Systems (RecSys'20).
